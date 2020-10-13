@@ -12,14 +12,22 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 ## So far I have completed 8 of 58 "Easy" difficulty exercises:
 
-1. Hello World (hey, gotta start somewhere)
-2. RNA Transcription (Converts any valid DNA charlist to its RNA equivalent)
-3. Word Count (Creates a map showing the frequency of each word for a given string)
-4. Roman Numerals (Converts a positive INT up to 3999 into the right Roman numerals)
-5. Bob (Parses a given string and responds with 1 of 5 stings)
-6. Beer Song (Gives either a single verse or range of lyrics printed out, works with any positive INTs)
-7. Nucleotide Count (Gives how many times a nucleotide appears in a charlist)
-8. Secret Handshake (Checks bits in an int and gives a list of responses or reverses them)
+1. Hello World
+   - Hey, gotta start somewhere
+2. RNA Transcription
+   - Converts any valid DNA charlist to its RNA equivalent
+3. Word Count
+   - Creates a map showing the frequency of each word for a given string
+4. Roman Numerals
+   - Converts a positive INT up to 3999 into the right Roman numerals
+5. Bob
+   - Parses a given string and 'Bob' responds with 1 of 5 stings
+6. Beer Song
+   - Gives either a single verse or range of lyrics printed out, works with any positive INTs
+7. Nucleotide Count
+   - Gives how many times a nucleotide appears in a charlist
+8. Secret Handshake
+   - Checks bits in an int and gives a list of responses or reverses them
 9. Rotational Cipher
 10. Strain
 11. Protein Translation
@@ -77,7 +85,8 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 1. Robot Simulator
 2. List Ops
-3. Markdown (Refactoring exercise) **IN PROGRESS**
+3. Markdown **IN PROGRESS**
+   - Refactoring exercise from hell (Nested functions, single letter variables)
 4. Bank Account
 5. Tournament
 6. Meetup
