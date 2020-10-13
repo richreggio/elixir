@@ -43,6 +43,3 @@ defmodule SecretHandshake do
     {new_number, new_list}
   end
 end
-
-# Needs to take in an int and checks each of the first 5 bits and either adds the given string
-# to a list or in the case of the fifth bit reverses the order of the list (Enum.reverse())
