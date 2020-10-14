@@ -29,6 +29,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 8. Secret Handshake
    - Checks bits in an int and gives a list of responses or reverses them
 9. Rotational Cipher
+   - Apply a Caesar cipher to a given string
 10. Strain
 11. Protein Translation
 12. Pig Latin
