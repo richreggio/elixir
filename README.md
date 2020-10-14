@@ -31,6 +31,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 9. Rotational Cipher
    - Apply a Caesar cipher to a given string
 10. Strain
+    - Filter results WITHOUT using Enum.filter or Enum.reject
 11. Protein Translation
 12. Pig Latin
 13. Space Age
