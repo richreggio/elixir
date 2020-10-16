@@ -10,7 +10,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 ---
 
-## So far I have completed 11 of 58 "Easy" difficulty exercises:
+## So far I have completed 12 of 58 "Easy" difficulty exercises:
 
 1. Hello World
    - Hey, gotta start somewhere
@@ -35,6 +35,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 11. Protein Translation
     - Turn strings of RNA into the right proteins
 12. Pig Latin
+    - Converts any string of wrods to pig latin
 13. Space Age
 14. Twelve Days
 15. Accumulate
