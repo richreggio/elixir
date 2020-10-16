@@ -37,6 +37,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 12. Pig Latin
     - Converts any string of wrods to pig latin
 13. Space Age
+    - Calculate how old you are in years according to each planet's orbital cycle
 14. Twelve Days
 15. Accumulate
 16. Acronym
