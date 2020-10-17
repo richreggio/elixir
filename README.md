@@ -23,7 +23,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 5. Bob
    - Parses a given string and 'Bob' responds with 1 of 5 stings
 6. Beer Song
-   - Gives either a single verse or range of lyrics printed out, works with any positive INTs
+   - Gives either a single verse or range of lyrics printed out from "99 bottles of beer on the wall..."
 7. Nucleotide Count
    - Gives how many times a nucleotide appears in a charlist
 8. Secret Handshake
@@ -39,6 +39,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 13. Space Age
     - Calculate how old you are in years according to each planet's orbital cycle
 14. Twelve Days
+    - Prints a verse or range of verses from the Christmas Carol "Twelve days of Christmas"
 15. Accumulate
 16. Acronym
 17. Series
