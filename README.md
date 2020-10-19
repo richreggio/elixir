@@ -1,4 +1,9 @@
-# Exercism Elixir programming examples
+- [Exercism Elixir](#exercism-elixir)
+  - ["Easy" difficulty exercises:](#easy-difficulty-exercises)
+  - ["Medium" difficulty exercises:](#medium-difficulty-exercises)
+  - ["Hard" difficulty exercises:](#hard-difficulty-exercises)
+
+# Exercism Elixir
 
 I wanted to try my hand at coding all 94 of the current Exercism exercises.
 
@@ -10,7 +15,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 ---
 
-## So far I have completed 12 of 58 "Easy" difficulty exercises:
+## "Easy" difficulty exercises:
 
 1. Hello World
    - Hey, gotta start somewhere
@@ -41,6 +46,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 14. Twelve Days
     - Prints a verse or range of verses from the Christmas Carol "Twelve days of Christmas"
 15. Accumulate
+    - Asks you to pretty much reimplement Enum.map
 16. Acronym
 17. Series
 18. Raindrops
@@ -87,7 +93,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 ---
 
-## So far I have completed 0 of 32 "Medium" difficulty exercises:
+## "Medium" difficulty exercises:
 
 1. Robot Simulator
 2. List Ops
@@ -125,7 +131,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 ---
 
-## So far I have completed 0 of 4 "Hard" difficulty exercises:
+## "Hard" difficulty exercises:
 
 1. Zipper
 2. Bowling
