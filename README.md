@@ -52,6 +52,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 17. Series
     - Given a string of digits, output all the contiguous substrings of length `n` in that string in the order that they appear
 18. Raindrops
+    - Convert a number to a string, the contents of which depend on the number's factors.
 19. Run Length Encoding
 20. Sublist
 21. Scrabble Score
