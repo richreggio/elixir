@@ -18,7 +18,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 ## "Easy" difficulty exercises:
 
 1. Hello World
-   - Hey, gotta start somewhere
+   - The classical introductory exercise. Just say "Hello, World!"
 2. RNA Transcription
    - Converts any valid DNA charlist to its RNA equivalent
 3. Word Count
@@ -40,7 +40,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 11. Protein Translation
     - Turn strings of RNA into the right proteins
 12. Pig Latin
-    - Converts any string of wrods to pig latin
+    - Converts any string of words to pig latin
 13. Space Age
     - Calculate how old you are in years according to each planet's orbital cycle
 14. Twelve Days
@@ -48,8 +48,9 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 15. Accumulate
     - Asks you to pretty much reimplement Enum.map
 16. Acronym
-    - Take any given string and make it into an acronym
+    - Convert a phrase to its acronym
 17. Series
+    - Given a string of digits, output all the contiguous substrings of length `n` in that string in the order that they appear
 18. Raindrops
 19. Run Length Encoding
 20. Sublist
