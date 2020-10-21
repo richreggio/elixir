@@ -48,6 +48,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 15. Accumulate
     - Asks you to pretty much reimplement Enum.map
 16. Acronym
+    - Take any given string and make it into an acronym
 17. Series
 18. Raindrops
 19. Run Length Encoding
