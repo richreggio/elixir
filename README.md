@@ -54,6 +54,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 18. Raindrops
     - Convert a number to a string, the contents of which depend on the number's factors.
 19. Run Length Encoding
+    - Convert strings that have repeating characters into encoded/decoded formats
 20. Sublist
 21. Scrabble Score
 22. Sum of Multiples
