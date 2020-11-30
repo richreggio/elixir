@@ -56,7 +56,9 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 19. Run Length Encoding
     - Convert strings that have repeating characters into encoded/decoded formats
 20. Sublist
+    - Compare 2 lists to see if they contain each other or are equal
 21. Scrabble Score
+    - Calculate the word score using Scrabble values
 22. Sum of Multiples
 23. Pangram
 24. Simple Linked List
