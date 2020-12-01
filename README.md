@@ -26,7 +26,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 3. Word Count
    - Creates a map showing the frequency of each word for a given string
 4. Roman Numerals
-   - Converts a positive INT up to 3999 into the right Roman numerals
+   - Converts a positive INT up to 3999 into the correct Roman numerals
 5. Bob
    - Parses a given string and 'Bob' responds with 1 of 5 stings
 6. Beer Song
@@ -48,7 +48,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 14. Twelve Days
     - Prints a verse or range of verses from the Christmas Carol "Twelve days of Christmas"
 15. Accumulate
-    - Asks you to pretty much reimplement Enum.map
+    - Asks you to reimplement Enum.map
 16. Acronym
     - Convert a phrase to its acronym
 17. Series
@@ -64,6 +64,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 22. Sum of Multiples
     - Calculate the unique factor multiples of a given positive integer
 23. Pangram
+    - Checks if a given string contains all 26 ASCII characters
 24. Simple Linked List
 25. Anagram
 26. Matrix

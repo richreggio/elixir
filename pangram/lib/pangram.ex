@@ -14,5 +14,12 @@ defmodule Pangram do
 
   @spec pangram?(String.t()) :: boolean
   def pangram?(sentence) do
+    String.downcase(sentence, :ascii)
+    |> String.codepoints()
+    |> Enum.filter(&Regex.match?(~r/[a-z]/, &1))
+    |> Enum.uniq()
+    |> Enum.sort()
+    |> List.to_string()
+    |> String.contains?("abcdefghijklmnopqrstuvwxyz")
   end
 end
