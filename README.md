@@ -60,6 +60,7 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 21. Scrabble Score
     - Calculate the word score using Scrabble values
 22. Sum of Multiples
+    - Calculate the unique factor multiples of a given positive integer
 23. Pangram
 24. Simple Linked List
 25. Anagram
