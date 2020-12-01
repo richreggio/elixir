@@ -7,6 +7,8 @@
 
 I wanted to try my hand at coding all 94 of the current Exercism exercises.
 
+All exercises that have a description have been completed.
+
 Exercism breaks the exercises down into 3 levels of difficulty:
 
 1. Easy - 58 Exercises
@@ -104,8 +106,8 @@ Exercism breaks the exercises down into 3 levels of difficulty:
 
 1. Robot Simulator
 2. List Ops
-3. Markdown **IN PROGRESS**
-   - Refactoring exercise from hell (Nested functions, single letter variables)
+3. Markdown
+   - Refactoring exercise (Nested functions, single letter variables)
 4. Bank Account
 5. Tournament
 6. Meetup
